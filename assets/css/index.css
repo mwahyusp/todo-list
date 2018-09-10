@@ -1,0 +1,17 @@
+#output_todo {
+    margin-top: 10px;
+    border: 1px solid grey;
+    height: 400px;
+    width: 300px;
+    padding: 10px;
+}
+
+.todos {
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+}
+
+#update_form_group {
+    display: none;
+}
