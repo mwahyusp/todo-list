@@ -1,17 +1,28 @@
+body {
+  margin: 10% 38%;
+  width: 37%;
+}
+
+h2 {
+  background-color: aqua;
+  text-align: center;
+}
+
 #output_todo {
-    margin-top: 10px;
-    border: 1px solid grey;
-    height: 400px;
-    width: 300px;
-    padding: 10px;
+  margin-top: 10px;
+  border: 1px solid grey;
+  height: 400px;
+  width: 300px;
+  padding: 10px;
+  background-color: #ccc;
 }
 
 .todos {
-    display: flex;
-    justify-content: space-between;
-    padding: 2px;
+  display: flex;
+  justify-content: space-between;
+  padding: 2px;
 }
 
 #update_form_group {
-    display: none;
+  display: none;
 }
